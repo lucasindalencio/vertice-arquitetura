@@ -49,7 +49,8 @@ O site foi construído no formato **Single Page** (uma única página HTML), com
 | Mensagem de sucesso simulando envio a um banco de dados | Função `simulaEnvioFormulario()` — gera um registro, salva no array `bancoDeDadosContatos` e exibe mensagem de sucesso com protocolo |
 
 ## 👤 Integrantes
-- [SEU NOME AQUI]
+- Daniel de Figueiredo
+- Lucas Indalencio Gonçalves de Lima
 
 ## 🔗 Links
 - **Repositório no GitHub:** [LINK AQUI]
